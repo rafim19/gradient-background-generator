@@ -1,0 +1,22 @@
+{
+  "name": "exercises-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafim19/gradient-background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafimuh19/gradient-background-generator/issues"
+  },
+  "homepage": "https://github.com/rafimuh19/gradient-background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
